@@ -463,7 +463,7 @@ namespace MbDotNet.Tests.Acceptance
 
             await _client.SubmitAsync(imposter);
         }
-        
+
         /// <summary>
         /// This test shows how to setup the imposter in the inject predicate example
         /// at http://www.mbtest.org/docs/api/injection.
